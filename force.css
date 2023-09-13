@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .container-fluid img {
+    width: 130px;
+    height: 103px;
+  }
+  .firstdiv{
+    margin-top: 100px;
+  }
+  .navbar-nav a {
+    font-family: sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: start;
+    letter-spacing: normal;
+  }
+  .para {
+    margin-top: 110px;
+    
+  }  
+  .image-fluid {
+    height: auto;
+    max-width: 100%; 
+  }
+
+  .contents {
+    
+    overflow: hidden;
+    padding-bottom: 20px;
+  }
+  #carouselExampleControls2{
+    height: 280px;
+  }
+  #carouselExampleControls2 img{
+    margin-top: 80px;
+  }
+  .contents_3 {
+    width: 100%;
+    height: 444px;
+    display: flex;
+  }
+  .con1 {
+    width: 570px;
+    height: 348px;
+  }
+  .image-section{
+    width: 50%;
+    height: auto;
+   
+  }
+  .enquir{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    
+  }
+  .last{
+    height: auto;
+
+    background-color: #e8e8e8;
+  }
+ 
+  .card-group{
+    background-color: #e8e8e8;
+  }
+  body{
+    overflow-x: hidden;
+  }
+  .contents img{
+    width: 674px;
+    height: 491px;
+  }
